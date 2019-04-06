@@ -6,6 +6,8 @@
 ##### Image Source: Open Image V4 (using test image for training. For the training images is too big to download(more than 100G))
 ##### Image Resize: 512x512
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| ![img1](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample1.png) 
+ | ![img2](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample2.png) 
+ | ![img3](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample3.png) 
+ |
+
