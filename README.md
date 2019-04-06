@@ -9,3 +9,8 @@
 |    Input Data Sample I   |    Input Data Sample II   |    Input Data Sample III   |
 :--------------------------:|:-------------------------:|:---------------------------:
 ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample1.png)  |  ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample2.png)|  ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample3.png)
+
+
+### CheckPoint 140K
+| DetectionBoxes_Precision/mAP/200K |DetectionBoxes_Precision/mAP (large)/200K|
+:-------------------------------------:|:-----------------------------:
