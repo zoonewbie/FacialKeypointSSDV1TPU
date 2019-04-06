@@ -18,4 +18,5 @@
 
 |DetectionBoxes_Precision/mAP (medium)/200K|DetectionBoxes_Precision/mAP (small)/200K|
 :-------------------------------------:|:-----------------------------:
-![](https://https://github.com/zoonewbie/FacialKeypointSSDV1TPU/blob/master/140K/DetectionBoxes_Precision_mAP%20(medium).svg?sanitize=true)|![](https://raw.githubusercontent.com/zoonewbie/FacialKeypointSSDV1TPU/master/140K/DetectionBoxes_Precision_mAP%20(small).svg?sanitize=true)
+![](https://raw.githubusercontent.com/zoonewbie/FacialKeypointSSDV1TPU/master/140K/DetectionBoxes_Precision_mAP%20(medium).svg
+?sanitize=true)|![](https://raw.githubusercontent.com/zoonewbie/FacialKeypointSSDV1TPU/master/140K/DetectionBoxes_Precision_mAP%20(small).svg?sanitize=true)
