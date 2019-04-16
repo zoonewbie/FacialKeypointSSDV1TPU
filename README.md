@@ -6,9 +6,9 @@
 ##### Image Source: Open Image V4 (using test image for training. For the training images is too big to download(more than 100G))
 ##### Image Resize: 512x512
 
-|    Input Data Sample I   |    Input Data Sample II   |    Input Data Sample III   |
+|    GroudTruth Sample I   |    GroudTruth Sample II   |    GroudTruth Sample III   |
 :--------------------------:|:-------------------------:|:---------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample1.png)  |  ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample2.png)|  ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/ImageDatasample3.png)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/groundtruth1.png)  |  ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/groundtruth1.png)|  ![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/groundtruth1.png)
 
 
 
