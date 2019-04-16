@@ -23,7 +23,7 @@
 
 |loss_1/smooth 0.01/200K|loss_1/smooth 0.99/200K|
 :-------------------------------------:|:-----------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/140K/loss_1_smooth001.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/140K/loss_1_smooth99.svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/140K/loss_1.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/140K/loss_4.svg?sanitize=true)
 
 
 |eval I/200K|eval II/200K|
