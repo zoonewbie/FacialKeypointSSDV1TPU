@@ -14,33 +14,33 @@
 
 
 
-### CheckPoint 700K
-| DetectionBoxes_Precision/mAP/700K |DetectionBoxes_Precision/mAP (large)/700K|
+### CheckPoint 150K
+| DetectionBoxes_Precision/mAP/150K |DetectionBoxes_Precision/mAP (large)/150K|
 :-------------------------------------------------------:|:-----------------------------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Precision_mAP.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Precision_mAP%20(large).svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Precision_mAP.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Precision_mAP%20(large).svg?sanitize=true)
 
-|DetectionBoxes_Precision/mAP (medium)/700K|DetectionBoxes_Precision/mAP (small)/700K|
+|DetectionBoxes_Precision/mAP (medium)/150K|DetectionBoxes_Precision/mAP (small)/150K|
 :-------------------------------------------------------:|:-----------------------------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Precision_mAP%20(medium).svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Precision_mAP%20(small).svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Precision_mAP%20(medium).svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Precision_mAP%20(small).svg?sanitize=true)
 
 
-|DetectionBoxes_Recall/AR@1/700K|DetectionBoxes_Recall/AR@10/700K|
+|DetectionBoxes_Recall/AR@1/150K|DetectionBoxes_Recall/AR@10/150K|
 :-------------------------------------------------------:|:-----------------------------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Recall_AR%401.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Recall_AR%4010.svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Recall_AR%401.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Recall_AR%4010.svg?sanitize=true)
 
 
-|DetectionBoxes_Recall/AR@100/700K|DetectionBoxes_Recall/AR@100 (large)/700K|
+|DetectionBoxes_Recall/AR@100/150K|DetectionBoxes_Recall/AR@100 (large)/150K|
 :-------------------------------------------------------:|:-----------------------------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Recall_AR%40100.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/DetectionBoxes_Recall_AR%40100%20(large).svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Recall_AR%40100.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/DetectionBoxes_Recall_AR%40100%20(large).svg?sanitize=true)
 
 
-|loss_1/smooth 0.01/700K|loss_1/smooth 0.99/700K|
+|loss_1/smooth 0.01/150K|loss_1/smooth 0.99/150K|
 :-------------------------------------------------------:|:-----------------------------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/loss_1.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/loss_1099.svg?sanitize=true)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/loss_1.svg?sanitize=true)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/loss_1099.svg?sanitize=true)
 
 
-|eval I/700K|eval II/700K|
+|eval I/150K|eval II/150K|
 :-------------------------------------------------------:|:-----------------------------------------------:
-![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/eval1.png)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/700K/eval4.png)
+![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/eval1.png)|![](https://github.com/zoonewbie/FacialKeypointSSDV1TPU/raw/master/150K/eval4.png)
 
 
